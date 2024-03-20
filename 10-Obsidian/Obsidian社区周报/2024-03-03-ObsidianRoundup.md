@@ -348,7 +348,7 @@ require("@lezer/highlight");
 
 [Vault Transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) by _ImaginaryProgramming_
 
-> 将所选注释的内容传输到另一个保管库，然后从原始注释链接到它。
+> 将所选笔记的内容传输到另一个保管库，然后从原始笔记链接到它。
 
 ![2024-03-03-ch-212498180-34ed6ddf-9800-4904-b5a8-209be067e992.gif](https://cdn.pkmer.cn/images/2024-03-03-ch-212498180-34ed6ddf-9800-4904-b5a8-209be067e992.gif!pkmer)
 
